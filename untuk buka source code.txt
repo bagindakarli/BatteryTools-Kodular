@@ -1,0 +1,1 @@
+Aplikasi dibuat menggunakan website Kodular. Sehingga cara membuka file berformat .aia cukup dengan "Import" file tersebut ke dalam akun Kodular (https://creator.kodular.io/)
